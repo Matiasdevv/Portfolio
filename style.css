@@ -190,16 +190,11 @@ a {
 
 
 
-.soft-skills{
-
-    text-align: center;
-
-}
-
 .soft-skills > li{
 
     list-style: none;
-    margin: 5px;
+    margin: 10px;
+    text-align: center;
 
 }
 

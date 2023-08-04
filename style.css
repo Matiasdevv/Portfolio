@@ -161,11 +161,17 @@ a {
 
 
 #sections {
-    flex: 6 1 auto;
-    margin-top: 30px;
+    flex: 1 1 auto;
+    margin-top: 20px;
+
 
 }
 
+.tag-wrapper{
+
+    height: 33%;
+
+}
 
 
 .aboutme-tag {
@@ -182,6 +188,20 @@ a {
 }
 
 
+
+
+.soft-skills{
+
+    text-align: center;
+
+}
+
+.soft-skills > li{
+
+    list-style: none;
+    margin: 5px;
+
+}
 
 
 
